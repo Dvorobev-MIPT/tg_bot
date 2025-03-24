@@ -1,5 +1,7 @@
 # telegram bot by PSQL
 
+@test_wiki_1971_bot - мой бот
+
 ## Запуск
 
 ### Создание/обновление БД
@@ -51,3 +53,4 @@
 
 ## БД используемая в боте
 ![alt text](https://github.com/Dvorobev-MIPT/tg_bot/blob/main/images/Example.jpg)
+
