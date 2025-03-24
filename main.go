@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	const token = "{YOUR_TOKEN}"	// замените на {YOUR_TOKEN} ваш токен
+	const token = "{YOUR_TOKEN}"	// замените на {YOUR_TOKEN}" ваш токен
 
 	db, err := date_base.DbConnect()
 	if err != nil {
