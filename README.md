@@ -40,9 +40,9 @@ go get -u github.com/lib/pq
 
 ## Пример работы
 
-![alt text](https://github.com/Dvorobev-MIPT/tg_bot/images/blob/main/images/start_help.png)
-![alt text](https://github.com/Dvorobev-MIPT/tg_botimages/blob/main/images/letter_fio.png)
-![alt text](https://github.com/Dvorobev-MIPT/tg_botimages/blob/main/images/fio.png)
+![alt text](https://github.com/Dvorobev-MIPT/tg_bot/blob/main/images/start_help.png)
+![alt text](https://github.com/Dvorobev-MIPT/tg_bot/blob/main/images/letter_fio.png)
+![alt text](https://github.com/Dvorobev-MIPT/tg_bot/blob/main/images/fio.png)
 
 
 ## БД используемая в боте
