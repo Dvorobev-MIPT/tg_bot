@@ -1,10 +1,10 @@
 package date_base
 
-// Параметры для подключения к psql
+// Параметры для подключения к psql (необходимо ввести)
 const (
     dataBase 			= "phystech_wiki"
-    user			  	= "postgres"
-    password 			= "Slash1965"
-    host	 			= "localhost"
-    port 	 			= 5432
+    user			  	= "YourUser"
+    password 			= "YourPassword"
+    host	 			= "Yourhost"
+    port 	 			= 5432      // your port
 )
